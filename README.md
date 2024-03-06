@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frontend and Backend**
 
-- 📫 How to reach me **patricioramos116@gmail.com**
+- 📫 How to reach me **pato._r** in instagram
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
