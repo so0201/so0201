@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/kim6crystal66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s0yunques0" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/patricio-ramos-621b1a27a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pato .r" height="30" width="40" /></a>
-<a href="https://instagram.com/patogale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pato._r" height="30" width="40" /></a>
+<a href="https://instagram.com/patogalesio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pato._r" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
