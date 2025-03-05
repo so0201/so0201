@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frontend and Backend**
 
-- 📫 How to reach me **patogale** in instagram
+- 📫 How to reach me?, **patogalesio** in instagram
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
