@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Patoo</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **DuckPage in progress**
+- 🔭 I’m currently working on me.
 
-- 🌱 I’m currently learning **Frontend and Backend**
+- 🌱 I’m currently learning **cybersecurity**
 
 - 📫 How to reach me?, **patogalesio** in instagram
 
